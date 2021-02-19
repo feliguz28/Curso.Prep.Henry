@@ -1,0 +1,10 @@
+For: El cliclo for es un ciclo repetitivo que nos da la opcion de repetir un bucle las veces que nosotros mismos escojamos por medio de una
+simple condicion y un contador la estructura es de la siguiente manera:
+
+for(i=0;i<10:i++){
+    Aqui incluimos el codigo que vamos a repetir
+}
+
+&&, ||, ! : Estos tres son operadores logicos que nos permiten agregar una variedad de condiciones a nuestras declaraciones para tener muchas
+mas posiblidades de ejecutar nuestro codigo de diferentes maneras el operador && significa AND o en español Y el operator || signifa or o en 
+español O y el operador ! que es la negacion quiere decir NOT o en español NO.

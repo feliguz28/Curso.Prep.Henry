@@ -1,0 +1,20 @@
+Variables: Las variables es la manera en la cual podemos guardar datos de manera facil a una(valga la redundancia) variable con un nombre
+que nosotros mismos elegimos de manera que si necesitamos esos datos guardados en el futuro podemos acceder a ellos por medio el nombre 
+que previamente les asignamos.
+
+Strings: Un string es una cadena de caracteres que va definida dentro de las comillas '' o "" se puede decir que es una cadena de texto
+y se pueden concatenar varias de ellas.
+
+Funciones(argumentos, return): Una funcion es la manera que tenemos para realizar un proceso 1 sola vez y guardarlo dentro de una funcion
+con un nombre que nosotros mismos le damos para que si en el futuro necesitamos repetir el proceso que hizimos dentro de la funcion no 
+tengamos que escribir el codigo nuevamente sino solo invocar el nombre de la funcion funcion() con los argumentos o datos que necesitemos 
+para el funcionamiento de la misma y nos retorne algun valor (para que retorne algun dato o valor dentro de la funcion debemos implementar
+un return que nos especifique que dato queremos que la funcion nos devuelva).
+
+Declaraciones: Las declaraciones son fragmentos de codigo que utilizamos para realizar ciclos repetitivos o bucles o evaluar condiciones
+con el fin de realizar algun tipo de proceso si la condicion se cumple y que a su vez ese proceso sea repetitivo segun la funcion o el 
+proposito con el cual creamos la declaracion.
+
+Valores booleanos (true, false): Los valorres booleanos son como valores o datos que podemos interpretar como si una expresion, un valor o
+una declaracion es verdadera o falsa y segun alguno de esos dos valores podemos ejecutar algun tipo de proceso o instruccion previamente
+programada.
